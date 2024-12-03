@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "Datumsbereich",
+      "message": "Datumsbereich"
+   },
+   "UI_advanced_search_domain": {
+      "description": "Domain",
+      "message": "Domain"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "Schlüsselwörter",
+      "message": "Schlüsselwörter"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "Beschreibungstext für die Schaltfläche 'Automatisch generieren'",
+      "message": "Automatisch generieren"
+   },
+   "UI_auto_generate_description": {
+      "description": "Beschreibung der automatischen Generierung",
+      "message": "Klicken Sie unten auf die Schaltfläche 'Automatisch generieren', die am häufigsten besuchten Seiten in jeder Kategorie werden als angepinnt markiert."
+   },
+   "UI_button_clear": {
+      "description": "Löschen",
+      "message": "Löschen"
+   },
+   "UI_button_close": {
+      "description": "Schließen",
+      "message": "Schließen"
+   },
+   "UI_button_search": {
+      "description": "Suchen",
+      "message": "Suchen"
+   },
+   "UI_pagenation_next": {
+      "description": "Nächste Seite",
+      "message": "Weiter"
+   },
+   "UI_pagenation_prev": {
+      "description": "Vorherige Seite",
+      "message": "Zurück"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "Wie viele Einträge gefunden wurden",
+      "message": "Insgesamt $total_records$ Besuche",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "Tooltips für nur ein geöffnetes Fenster",
+      "message": "History+ öffnet sich nur in einem Tab. Wenn Sie den History+ Tab nicht sehen, könnte er in einem anderen Bildschirm oder Fenster sein."
+   },
+   "UI_popup_rating": {
+      "description": "Bewerten Sie uns",
+      "message": "Bewerten Sie uns und machen Sie es besser!"
+   },
+   "UI_section_name_top_visits": {
+      "description": "Abschnittsüberschrift für Top-Besuche",
+      "message": "Top-Besuche"
+   },
+   "UI_submit_feedback": {
+      "description": "Linktext für Feedback geben",
+      "message": "Feedback geben"
+   },
+   "UI_table_header_domain": {
+      "description": "Spalte Domain",
+      "message": "Domain"
+   },
+   "UI_table_header_time": {
+      "description": "Spalte Zeit",
+      "message": "Zeit"
+   },
+   "UI_table_header_title": {
+      "description": "Spalte Titel",
+      "message": "Titel"
+   },
+   "UI_title_backup": {
+      "description": "Sicherung",
+      "message": "Sicherung"
+   },
+   "UI_title_basic_settings": {
+      "description": "Grundeinstellungen",
+      "message": "Grundeinstellungen"
+   },
+   "UI_title_export": {
+      "description": "Exportieren",
+      "message": "Exportieren"
+   },
+   "UI_title_import": {
+      "description": "Importieren",
+      "message": "Importieren"
+   },
+   "UI_title_settings": {
+      "description": "Einstellungen",
+      "message": "Einstellungen"
+   },
+   "global_extensionDescription": {
+      "description": "Funktionen umfassen: 1. Speichern der Browserhistorie über 90 Tage hinaus, bevor der Browser sie löscht. 2. Export der Historie zur Sicherung oder Übertragung auf einen anderen Computer; 3. Import der Historie. Kompatibel mit dem Export von History Trends Unlimited. 4. Erweiterte Suche; 5. Schnelles Filtern durch Klicken auf Website-Logos",
+      "message": "Eine bessere Möglichkeit, Ihre Browserhistorie zu verwalten. Speichern Sie mehr Historie über 90 Tage hinaus, erweiterte Suche, automatische Sicherung und Import/Export."
+   },
+   "global_extensionName": {
+      "description": "History+ ist ein besseres Werkzeug zur Verwaltung der Browserhistorie",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "Menüpunkt für Alle",
+      "message": "Alle"
+   },
+   "left_nav_menu_category_1": {
+      "description": "Menüpunkt für Angepinnt",
+      "message": "Angepinnt"
+   },
+   "left_nav_menu_category_10": {
+      "description": "Menüpunkt für Shop",
+      "message": "Shop"
+   },
+   "left_nav_menu_category_11": {
+      "description": "Menüpunkt für Finanzen",
+      "message": "Finanzen"
+   },
+   "left_nav_menu_category_12": {
+      "description": "Menüpunkt für Reisen",
+      "message": "Reisen"
+   },
+   "left_nav_menu_category_13": {
+      "description": "Menüpunkt für Hobby",
+      "message": "Hobby"
+   },
+   "left_nav_menu_category_2": {
+      "description": "Menüpunkt für Dokumente",
+      "message": "Dokumente"
+   },
+   "left_nav_menu_category_3": {
+      "description": "Menüpunkt für E-Mail",
+      "message": "E-Mail"
+   },
+   "left_nav_menu_category_4": {
+      "description": "Menüpunkt für Morgenlektüre",
+      "message": "Morgenlektüre"
+   },
+   "left_nav_menu_category_5": {
+      "description": "Menüpunkt für Werkzeuge",
+      "message": "Werkzeuge"
+   },
+   "left_nav_menu_category_6": {
+      "description": "Menüpunkt für Nachrichten",
+      "message": "Nachrichten"
+   },
+   "left_nav_menu_category_7": {
+      "description": "Menüpunkt für Sozial",
+      "message": "Sozial"
+   },
+   "left_nav_menu_category_8": {
+      "description": "Menüpunkt für Unterhaltung",
+      "message": "Unterhaltung"
+   },
+   "left_nav_menu_category_9": {
+      "description": "Menüpunkt für Lernen",
+      "message": "Lernen"
+   },
+   "left_stats_days": {
+      "description": "Ermitteln Sie den frühesten Tag für die Verwendung von History+ zum Speichern der Historie",
+      "message": "seit $earliest_day_content$ ($daysDifference$ Tage)",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "Tooltips für die 90-Tage-Begrenzung der Standardhistorie",
+      "message": "Chrome behält nur 90 Tage der Browserhistorie. History+ sammelt diese, wenn Sie es weiterhin verwenden."
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "Löschen"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "bis"
+   },
+   "period_range_all": {
+      "description": "Alle Zeit",
+      "message": "Alle"
+   },
+   "period_range_past_180_days": {
+      "description": "Letzte 180 Tage",
+      "message": "Letzte 180 Tage"
+   },
+   "period_range_past_30_days": {
+      "description": "Letzte 30 Tage",
+      "message": "Letzte 30 Tage"
+   },
+   "period_range_past_7_days": {
+      "description": "Letzte 7 Tage",
+      "message": "Letzte 7 Tage"
+   },
+   "period_range_past_90_days": {
+      "description": "Letzte 90 Tage",
+      "message": "Letzte 90 Tage"
+   },
+   "period_range_past_year": {
+      "description": "Letztes Jahr",
+      "message": "Letztes Jahr"
+   },
+   "period_range_today": {
+      "description": "Heute",
+      "message": "Heute"
+   },
+   "period_range_yesterday": {
+      "description": "Gestern",
+      "message": "Gestern"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "Von"
+   },
+   "settings_backup_interval": {
+      "description": "Sicherungsintervall",
+      "message": "Sicherung alle $interval$ Tage",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "Verlauf exportieren",
+      "message": "Wählen Sie eine Datei"
+   },
+   "settings_compress_file": {
+      "description": "Komprimieren",
+      "message": "Datei komprimieren: $compress$ (In eine .zip-Datei exportieren)",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "Automatische Sicherung aktivieren",
+      "message": "Automatische Sicherung aktivieren"
+   },
+   "settings_export": {
+      "description": "Verlauf exportieren",
+      "message": "Verlauf als Sicherung oder Übertragung auf einen anderen Computer exportieren. \u003Cli>Exportieren Sie eine vollständige Kopie Ihres Browserverlaufs, indem Sie auf \u003Cbutton id='setting-export' class='button is-primary is-small'>Verlauf exportieren\u003C/button> klicken\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "Voll (Jedes Mal vollständig sichern. Die Dateigröße wird größer sein.)",
+      "message": "Voll (Jedes Mal vollständig sichern. Die Dateigröße wird größer sein.)"
+   },
+   "settings_import": {
+      "description": "Verlauf importieren",
+      "message": "Importieren Sie den Verlauf aus der automatischen Sicherung oder der exportierten Datei von \u003Cb>History+\u003C/b>. Sie können auch die Sicherungs-/Transferdateien aus der Erweiterung \"\u003Cb>History Trends Unlimited\u003C/b>\" importieren.\u003Cbr/>\u003Ci>Hinweis: Das Importieren des Verlaufs fügt keine doppelten Besuche hinzu\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "Inkremental (Inkremental sichern seit der letzten Sicherung. Empfohlener Modus.)",
+      "message": "Inkremental (Inkremental sichern seit der letzten Sicherung. Empfohlener Modus.)"
+   },
+   "settings_items_per_page": {
+      "description": "Elemente auf jeder Auflistungsseite",
+      "message": "Elemente auf jeder Auflistungsseite"
+   },
+   "settings_last_backup_at": {
+      "description": "Letzte Sicherung um",
+      "message": "Letzte Sicherung um"
+   },
+   "settings_show": {
+      "description": "Anzeigen",
+      "message": "Anzeigen"
+   },
+   "settings_start_page": {
+      "description": "Startseite",
+      "message": "Startseite"
+   },
+   "top_search_advanced_search": {
+      "description": "Linktext für erweiterte Suche",
+      "message": "Erweiterte Suche"
+   },
+   "top_search_export": {
+      "description": "Linktext für Export",
+      "message": "Exportieren"
+   },
+   "top_search_record_count": {
+      "description": "Wie viele Einträge gefunden wurden",
+      "message": "Besuche gefunden"
+   },
+   "top_search_term_placeholder": {
+      "description": "Platzhalter des Suchfelds",
+      "message": "Zum Suchen tippen"
+   }
+}

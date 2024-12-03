@@ -1,0 +1,558 @@
+/* Add CSS variables for theming at the root level */
+:root {
+    /* Light theme (default) */
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --secondary-bg: #f5f5f5;
+    --tooltip-bg: #DDDDDD;
+    --border-color: #e0e0e0;
+    --link-color: #485fc7;  /* Default link color */
+    --link-hover-color: #3850b7;  /* Default hover color */
+    --line-color: #DDDDDD;
+    --progress-bar-bg: grey;
+    --progress-bar1-color: #2222FF;
+    --progress-bar2-color: green;
+    --aside-bg:#edf2f9;
+    --overlay-bg: rgba(0, 0, 0, 0.5);
+    --menu-on-bg: #00d1b2;
+    --setion-border-color: rgba(24, 28, 33, 0.06);
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #ffffff;
+    --secondary-bg: #2d2d2d;
+    --tooltip-bg: #3d3d3d;
+    --border-color: #404040;
+    --link-color: #EFEFEF;  /* Lighter blue for better contrast in dark mode */
+    --link-hover-color: #a3b8ff;  /* Even lighter on hover */
+    --line-color: #333333;
+    --progress-bar-bg: #404040;
+    --progress-bar1-color: #4444ff;
+    --progress-bar2-color: #008000;
+    --aside-bg:#3d3d3d;
+    --overlay-bg: rgba(0, 0, 0, 0.7);
+    --menu-on-bg: #CCC;
+    --setion-border-color: #DDD;
+}
+
+/* Update existing styles to use variables */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+aside.aside {
+    background: var(--aside-bg);
+}
+
+aside.aside .aside-tools {
+    background: var(--aside-bg);
+    color: var(--text-color);
+}
+
+aside.aside .aside-settings {
+    background: var(--aside-bg);
+}
+
+aside.aside .aside-settings span.icon {
+    color: var(--text-color);
+}
+aside.aside .menu-list a.on {
+    background: var(--menu-on-bg);
+}
+
+.table,.notification,.card-header,.card, .footer,.card-header-title, .button[disabled],#main-overlay, 
+.has-background-success-light, .title {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.card .card-header {
+    border-bottom: 1px solid var(--setion-border-color);
+}
+
+.card {
+    border: 1px solid var(--setion-border-color);
+}
+
+.table th {
+    color: var(--text-color);
+}
+
+.table td, .table th {
+    border-top: 1px solid var(--line-color);
+}
+
+#vSpace {
+    min-height: 300px;
+}
+
+#main-content{
+
+}
+
+.host-icon {
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 32px;
+    display: block;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+}
+
+#top-hosts{
+    justify-content: center;
+    position: sticky; 
+    background-color: var(--bg-color);
+    top: 0;
+    z-index: 100;
+    min-height: 35px;
+}
+#top-hosts a {
+  display: block;
+}
+
+#top-hosts a.off {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border: 0px sold white;
+}
+
+#top-hosts a.on img{
+  opacity: 1;
+  filter: alpha(opacity=100); /* msie */
+  filter: grayscale(0);
+}
+
+#top-hosts a.off img{
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* msie */
+  filter: grayscale(1);
+}
+
+#searchTerm {
+    background-color: var(--bg-color);
+    font-size: medium;
+    padding: 3px;
+    position: sticky; 
+    top: 35px;
+    z-index: 100;
+}
+
+#search-input {
+    cursor: text;
+    min-width: 350px;
+    width: 50%;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-color: var(--border-color);
+}
+
+#top-paging .button{
+    padding: 1px 5px;
+    height: 24px;
+}
+
+#top-paging input {
+    padding: 1px 5px;
+    width: 60px;
+    text-align: center;
+}
+
+#page-buttons input {
+    padding: 1px 5px;
+    margin-left: 2px;
+    height: 30px;
+    width: 60px;
+    text-align: center;
+}
+
+#page-buttons .button {
+    margin-bottom: 0;
+}
+
+div.on {
+    display: block;
+}
+div.off {
+    display: none;
+}
+
+#syncProgress {
+    flex: 1;
+    background-color: grey;
+}
+
+a.func-link {
+    text-decoration: underline;
+    color: var(--link-color);
+}
+
+a.func-link:hover {
+    text-decoration: underline;
+    color: var(--link-hover-color);
+}
+
+#modal-searchPanel span{
+    height: 32px;
+    vertical-align: middle;
+}
+#modal-searchPanel .left {
+    display: block;
+    float: left;
+    clear: left;
+    text-align: right;
+    width: 20%;
+}
+#modal-searchPanel .right {
+    display: block;
+    float: right;
+    clear: right;
+    text-align: left;
+    width: 76%;
+}
+#modal-searchPanel input[type="text"] {
+    width: 76%;
+    min-width: 200px;
+}
+
+.tooltip input[type="text"] {
+    width: 76%;
+    min-width: 200px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 100%;
+    min-width: 300px;
+    background-color: var(--tooltip-bg);
+    color: var(--text-color);
+    text-align: left;
+    border-radius: 6px;
+    padding: .5rem;
+    position: absolute;
+    z-index: 1;
+    bottom: 32px;
+    left: 0%;
+    margin-left: 0px;
+    font-family: sans-serif;
+    min-height: 60px;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #292929 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.hightlight{
+    font-weight: bold;
+}
+
+#progressBar {
+    width: 0.1%;
+    height: 30px;
+    color: white;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+#progressBar2 {
+    width: 0.1%;
+    height: 30px;
+    color: white;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+#selection-overlay{
+    width: 100wh;
+    z-index: 20000;
+    position: sticky; 
+    top: 95px;
+    background-color: var(--tooltip-bg);
+    min-height: 32px;
+    font-size: 14px;
+    line-height: 32px;
+    padding: 2px;
+}
+#selection-overlay select{
+    min-width: 150px;
+}
+
+.modal {
+    display: flex;
+    z-index: 200000;
+}
+
+.hidden {
+    display: none;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--overlay-bg);
+    backdrop-filter: blur(3px);
+    z-index: 9999;
+}
+
+#modal-syncProgress {
+    height: 60px;
+    background-color: var(--progress-bar-bg);
+    padding: 0;
+    margin: 0;
+}
+
+#modal-progressBar {
+    width: 0.1%;
+    height: 30px;
+    color: white;
+    line-height: 30px;
+    background-color: var(--progress-bar1-color);
+    white-space: nowrap;
+}
+
+#modal-progressBar2 {
+    width: 0.1%;
+    height: 30px;
+    background-color: var(--progress-bar2-color);
+    line-height: 30px;
+    background-color: green;
+    white-space: nowrap;
+}
+#modal-title {
+    clear:right;
+}
+#modal-title a{
+    text-decoration: underline;
+    color: var(--link-color);
+    font-size: 1em;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+  
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 100%;
+    background-color: #DDDDDD;
+    color: #000;
+    text-align: left;
+    border-radius: 6px;
+    padding: .5rem;
+    position: absolute;
+    z-index: 1;
+    bottom: 32px;
+    left: 0%;
+    margin-left: 0px;
+    font-family: sans-serif;
+    font-size: small;
+    line-height: 110%;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #292929 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    min-height: 70px;
+}
+
+.hightlight{
+    font-weight: bold;
+}
+
+#stat-section{
+    padding: 2px 16px;
+    width: auto;
+}
+
+#stat-date{
+    font-size: x-small;
+}
+
+#stat-date .tooltips {
+    visibility: hidden;
+    width: 200px;
+    background-color: #DDDDDD;
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+    font-size: 500;
+    /* Position the tooltip */
+    position: absolute;
+    top: 120px;
+    left: 15px;
+    z-index: 1;
+}
+
+#stat-date:hover .tooltips {
+    visibility: visible;
+}
+
+.calendar-nav {
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    background-color: var(--secondary-bg);
+    border-radius: 8px;
+    overflow: hidden;
+}
+  
+.nav-button {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.calendar-periods {
+    display: flex;
+    overflow-x: auto;
+}
+
+.period-button {
+    background-color: var(--border-color);
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    cursor: pointer;
+    min-width: 80px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.period-button:hover {
+    background-color: var(--menu-on-bg);
+}
+
+.period-button.active {
+    background-color: var(--menu-on-bg);
+    color: #fff;
+}
+
+.period-name {
+    font-size: 14px;
+}
+
+#date-range {
+    text-align: left;
+    margin-top: 10px;
+}
+
+#date-range .button{
+    padding: 1px 5px;
+    height: 24px;
+}
+
+#date-range .date-input{
+    padding: 1px 5px;
+    height: 24px;
+}
+
+/* Update inputs and buttons for dark mode */
+[data-theme="dark"] input,
+[data-theme="dark"] select,
+[data-theme="dark"] button {
+    background-color: var(--secondary-bg);
+    color: var(--text-color);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] input:focus,
+[data-theme="dark"] select:focus {
+    outline-color: var(--link-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+.modal {
+    color: #000;
+}
+
+.modal input, select{
+    background-color: white;
+    border: 1px sold #000;
+    color: #000;
+}
+.modal input:focus, select:focus{
+    background-color: white;
+    border: 1px sold #000;
+    outline-color: #008000;
+}
+
+.card.has-table {
+    overflow: hidden; /* This ensures inner elements don't break the radius */
+}
+
+.card.has-table .table-container,
+.card.has-table .card-content,
+.card.has-table .table-wrapper {
+    border-radius: inherit; /* Inherit border radius from parent */
+}
+
+.card.has-table {
+    border-radius: 6px; /* Adjust this value to match your design */
+}
+
+.card {
+    overflow: hidden; /* Contain all child elements */
+    border-radius: 6px; /* Consistent radius */
+}
+
+.card-header {
+    border-radius: 6px 6px 0 0; /* Round only top corners */
+}
+
+.card-header + .content,
+.card .content {
+    border-radius: 0 0 6px 6px; /* Round only bottom corners */
+    margin: 0; /* Remove any margin that might cause gaps */
+}
+
+.content table td,
+.content table th {
+    border: 1px solid var(--line-color);
+}

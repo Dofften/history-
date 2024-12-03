@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "日期范围",
+      "message": "日期范围"
+   },
+   "UI_advanced_search_domain": {
+      "description": "域名",
+      "message": "域名"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "关键词",
+      "message": "关键词"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "自动生成按钮的文本",
+      "message": "自动生成"
+   },
+   "UI_auto_generate_description": {
+      "description": "自动生成的描述",
+      "message": "点击下面的'自动生成'按钮，每个类别中访问最多的页面将被标记为已固定。"
+   },
+   "UI_button_clear": {
+      "description": "清除",
+      "message": "清除"
+   },
+   "UI_button_close": {
+      "description": "关闭",
+      "message": "关闭"
+   },
+   "UI_button_search": {
+      "description": "搜索",
+      "message": "搜索"
+   },
+   "UI_pagenation_next": {
+      "description": "下一页",
+      "message": "下一页"
+   },
+   "UI_pagenation_prev": {
+      "description": "上一页",
+      "message": "上一页"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "找到的记录数量",
+      "message": "总计 $total_records$ 次访问",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "只打开一个窗口的提示",
+      "message": "History+ 只在一个标签页中打开。如果您看不到 History+ 标签页，可能是在另一个屏幕或窗口中。"
+   },
+   "UI_popup_rating": {
+      "description": "给我们评分",
+      "message": "给我们评分，让它变得更好！"
+   },
+   "UI_section_name_top_visits": {
+      "description": "最热访问部分的标题",
+      "message": "最热访问"
+   },
+   "UI_submit_feedback": {
+      "description": "提交反馈的链接文本",
+      "message": "提交反馈"
+   },
+   "UI_table_header_domain": {
+      "description": "域名列",
+      "message": "域名"
+   },
+   "UI_table_header_time": {
+      "description": "时间列",
+      "message": "时间"
+   },
+   "UI_table_header_title": {
+      "description": "标题列",
+      "message": "标题"
+   },
+   "UI_title_backup": {
+      "description": "备份",
+      "message": "备份"
+   },
+   "UI_title_basic_settings": {
+      "description": "基本设置",
+      "message": "基本设置"
+   },
+   "UI_title_export": {
+      "description": "导出",
+      "message": "导出"
+   },
+   "UI_title_import": {
+      "description": "导入",
+      "message": "导入"
+   },
+   "UI_title_settings": {
+      "description": "设置",
+      "message": "设置"
+   },
+   "global_extensionDescription": {
+      "description": "功能包括：1. 在浏览器删除之前保存超过90天的浏览历史。2. 导出历史以备份或转移到另一台计算机；3. 导入历史。与历史趋势无限的出口兼容。4. 高级搜索；5. 通过点击网站标志快速过滤",
+      "message": "更好的浏览历史记录。保存超过90天的历史记录，高级搜索，自动备份和导入/导出。"
+   },
+   "global_extensionName": {
+      "description": "History+是您浏览器的更好的历史管理工具",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "全部菜单项",
+      "message": "全部"
+   },
+   "left_nav_menu_category_1": {
+      "description": "置顶菜单项",
+      "message": "置顶"
+   },
+   "left_nav_menu_category_10": {
+      "description": "购物的菜单项",
+      "message": "购物"
+   },
+   "left_nav_menu_category_11": {
+      "description": "金融的菜单项",
+      "message": "金融"
+   },
+   "left_nav_menu_category_12": {
+      "description": "旅行的菜单项",
+      "message": "旅行"
+   },
+   "left_nav_menu_category_13": {
+      "description": "爱好的菜单项",
+      "message": "爱好"
+   },
+   "left_nav_menu_category_2": {
+      "description": "文档的菜单项",
+      "message": "文档"
+   },
+   "left_nav_menu_category_3": {
+      "description": "邮件的菜单项",
+      "message": "邮件"
+   },
+   "left_nav_menu_category_4": {
+      "description": "晨读的菜单项",
+      "message": "晨读"
+   },
+   "left_nav_menu_category_5": {
+      "description": "工具的菜单项",
+      "message": "工具"
+   },
+   "left_nav_menu_category_6": {
+      "description": "新闻的菜单项",
+      "message": "新闻"
+   },
+   "left_nav_menu_category_7": {
+      "description": "社交的菜单项",
+      "message": "社交"
+   },
+   "left_nav_menu_category_8": {
+      "description": "娱乐的菜单项",
+      "message": "娱乐"
+   },
+   "left_nav_menu_category_9": {
+      "description": "学习的菜单项",
+      "message": "学习"
+   },
+   "left_stats_days": {
+      "description": "获取使用 History+ 保存历史的最早一天",
+      "message": "自 $earliest_day_content$ ($daysDifference$ 天)",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "标准历史的 90 天限制的提示",
+      "message": "Chrome 只保留 90 天的浏览历史。如果您继续使用 History+，它会累积这些历史记录。"
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "清除"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "至"
+   },
+   "period_range_all": {
+      "description": "所有时间",
+      "message": "全部"
+   },
+   "period_range_past_180_days": {
+      "description": "过去180天",
+      "message": "过去180天"
+   },
+   "period_range_past_30_days": {
+      "description": "过去30天",
+      "message": "过去30天"
+   },
+   "period_range_past_7_days": {
+      "description": "过去7天",
+      "message": "过去7天"
+   },
+   "period_range_past_90_days": {
+      "description": "过去90天",
+      "message": "过去90天"
+   },
+   "period_range_past_year": {
+      "description": "过去一年",
+      "message": "过去一年"
+   },
+   "period_range_today": {
+      "description": "今天",
+      "message": "今天"
+   },
+   "period_range_yesterday": {
+      "description": "昨天",
+      "message": "昨天"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "从"
+   },
+   "settings_backup_interval": {
+      "description": "备份间隔",
+      "message": "每$interval$天备份一次",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "选择文件",
+      "message": "选择一个文件"
+   },
+   "settings_compress_file": {
+      "description": "压缩",
+      "message": "压缩文件：$compress$（导出为.zip文件）",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "启用自动备份",
+      "message": "启用自动备份"
+   },
+   "settings_export": {
+      "description": "导出历史",
+      "message": "导出历史记录作为备份或转移到另一台计算机。\u003Cli>点击\u003Cbutton id='setting-export' class='button is-primary is-small'>导出历史记录\u003C/button>导出浏览记录的完整副本\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "完整备份（每次进行完整备份。文件会更大。）",
+      "message": "完整备份（每次进行完整备份。文件会更大。）"
+   },
+   "settings_import": {
+      "description": "导入历史",
+      "message": "从\u003Cb>History+\u003C/b>的自动备份或导出的文件中导入历史记录。你也可以从\"\u003Cb>History Trends Unlimited\u003C/b>\"扩展程序导入备份/传输文件。\u003Cbr/>\u003Ci>注意：导入历史不会增加重复的访问\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "增量备份（从上次备份开始增量备份。推荐模式。）",
+      "message": "增量备份（从上次备份开始增量备份。推荐模式。）"
+   },
+   "settings_items_per_page": {
+      "description": "每页显示的项目数",
+      "message": "条数/每页"
+   },
+   "settings_last_backup_at": {
+      "description": "上次备份时间",
+      "message": "上次备份时间"
+   },
+   "settings_show": {
+      "description": "显示",
+      "message": "显示"
+   },
+   "settings_start_page": {
+      "description": "起始页",
+      "message": "起始页"
+   },
+   "top_search_advanced_search": {
+      "description": "高级搜索的链接文本",
+      "message": "高级搜索"
+   },
+   "top_search_export": {
+      "description": "导出的链接文本",
+      "message": "导出"
+   },
+   "top_search_record_count": {
+      "description": "找到的记录数量",
+      "message": "找到的访问记录"
+   },
+   "top_search_term_placeholder": {
+      "description": "搜索框的占位符",
+      "message": "输入搜索内容"
+   }
+}

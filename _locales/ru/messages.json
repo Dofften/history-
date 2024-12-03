@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "Диапазон дат",
+      "message": "Диапазон дат"
+   },
+   "UI_advanced_search_domain": {
+      "description": "Домен",
+      "message": "Домен"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "Ключевые слова",
+      "message": "Ключевые слова"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "Текст кнопки автогенерации",
+      "message": "Автогенерация"
+   },
+   "UI_auto_generate_description": {
+      "description": "Описание автогенерации",
+      "message": "Нажмите на кнопку 'Автогенерация' ниже, самые посещаемые страницы в каждой категории будут отмечены как закрепленные."
+   },
+   "UI_button_clear": {
+      "description": "Очистить",
+      "message": "Очистить"
+   },
+   "UI_button_close": {
+      "description": "Закрыть",
+      "message": "Закрыть"
+   },
+   "UI_button_search": {
+      "description": "Поиск",
+      "message": "Поиск"
+   },
+   "UI_pagenation_next": {
+      "description": "Следующая страница",
+      "message": "След"
+   },
+   "UI_pagenation_prev": {
+      "description": "Предыдущая страница",
+      "message": "Пред"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "Количество найденных записей",
+      "message": "Всего $total_records$ посещений",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "Подсказка о том, что открыто только одно окно",
+      "message": "History+ открывается только в одной вкладке. Если вы не видите вкладку History+, возможно, она находится на другом экране или в другом окне."
+   },
+   "UI_popup_rating": {
+      "description": "Призыв оценить нас",
+      "message": "Оцените нас и помогите стать лучше!"
+   },
+   "UI_section_name_top_visits": {
+      "description": "Заголовок раздела Лучшие посещения",
+      "message": "Лучшие посещения"
+   },
+   "UI_submit_feedback": {
+      "description": "Текст ссылки для отправки отзыва",
+      "message": "Отправить отзыв"
+   },
+   "UI_table_header_domain": {
+      "description": "Столбец Домен",
+      "message": "Домен"
+   },
+   "UI_table_header_time": {
+      "description": "Столбец Время",
+      "message": "Время"
+   },
+   "UI_table_header_title": {
+      "description": "Столбец Название",
+      "message": "Название"
+   },
+   "UI_title_backup": {
+      "description": "Резервное копирование",
+      "message": "Резервное копирование"
+   },
+   "UI_title_basic_settings": {
+      "description": "Основные настройки",
+      "message": "Основные настройки"
+   },
+   "UI_title_export": {
+      "description": "Экспорт",
+      "message": "Экспорт"
+   },
+   "UI_title_import": {
+      "description": "Импорт",
+      "message": "Импорт"
+   },
+   "UI_title_settings": {
+      "description": "Настройки",
+      "message": "Настройки"
+   },
+   "global_extensionDescription": {
+      "description": "Возможности включают: 1. Сохранение истории браузера свыше 90 дней до её удаления браузером. 2. Экспорт истории для резервного копирования или передачи на другой компьютер; 3. Импорт истории. Совместимо с экспортом History Trends Unlimited. 4. Расширенный поиск; 5. Быстрая фильтрация по клику на логотипы сайтов",
+      "message": "Лучшие способы управления вашей историей просмотров. Сохраняйте историю более 90 дней, расширенный поиск, автобэкап и импорт/экспорт."
+   },
+   "global_extensionName": {
+      "description": "History+ — это лучшие инструменты для управления историей в вашем браузере",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "Пункт меню Все",
+      "message": "Все"
+   },
+   "left_nav_menu_category_1": {
+      "description": "Пункт меню Закрепленные",
+      "message": "Закрепленные"
+   },
+   "left_nav_menu_category_10": {
+      "description": "Пункт меню Магазин",
+      "message": "Магазин"
+   },
+   "left_nav_menu_category_11": {
+      "description": "Пункт меню Финансы",
+      "message": "Финансы"
+   },
+   "left_nav_menu_category_12": {
+      "description": "Пункт меню Путешествия",
+      "message": "Путешествия"
+   },
+   "left_nav_menu_category_13": {
+      "description": "Пункт меню Хобби",
+      "message": "Хобби"
+   },
+   "left_nav_menu_category_2": {
+      "description": "Пункт меню Документы",
+      "message": "Документы"
+   },
+   "left_nav_menu_category_3": {
+      "description": "Пункт меню Электронная почта",
+      "message": "Электронная почта"
+   },
+   "left_nav_menu_category_4": {
+      "description": "Пункт меню Утреннее чтение",
+      "message": "Утреннее чтение"
+   },
+   "left_nav_menu_category_5": {
+      "description": "Пункт меню Инструменты",
+      "message": "Инструменты"
+   },
+   "left_nav_menu_category_6": {
+      "description": "Пункт меню Новости",
+      "message": "Новости"
+   },
+   "left_nav_menu_category_7": {
+      "description": "Пункт меню Социальные сети",
+      "message": "Социальные сети"
+   },
+   "left_nav_menu_category_8": {
+      "description": "Пункт меню Развлечения",
+      "message": "Развлечения"
+   },
+   "left_nav_menu_category_9": {
+      "description": "Пункт меню Обучение",
+      "message": "Обучение"
+   },
+   "left_stats_days": {
+      "description": "Получить самый ранний день использования History+ для сохранения истории",
+      "message": "с $earliest_day_content$ ($daysDifference$ дней)",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "Подсказка о 90-дневном ограничении стандартной истории",
+      "message": "Chrome сохраняет историю браузера только за последние 90 дней. History+ накапливает её, если вы продолжаете её использовать."
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "Очистить"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "по"
+   },
+   "period_range_all": {
+      "description": "Все время",
+      "message": "Все"
+   },
+   "period_range_past_180_days": {
+      "description": "Последние 180 дней",
+      "message": "Последние 180 дней"
+   },
+   "period_range_past_30_days": {
+      "description": "Последние 30 дней",
+      "message": "Последние 30 дней"
+   },
+   "period_range_past_7_days": {
+      "description": "Последние 7 дней",
+      "message": "Последние 7 дней"
+   },
+   "period_range_past_90_days": {
+      "description": "Последние 90 дней",
+      "message": "Последние 90 дней"
+   },
+   "period_range_past_year": {
+      "description": "Последний год",
+      "message": "Последний год"
+   },
+   "period_range_today": {
+      "description": "Сегодня",
+      "message": "Сегодня"
+   },
+   "period_range_yesterday": {
+      "description": "Вчера",
+      "message": "Вчера"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "С"
+   },
+   "settings_backup_interval": {
+      "description": "Интервал резервного копирования",
+      "message": "Резервное копирование каждые $interval$ дней",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "Экспорт истории",
+      "message": "Выберите файл"
+   },
+   "settings_compress_file": {
+      "description": "Сжать",
+      "message": "Сжать файл: $compress$ (Экспорт в файл .zip)",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "Включить автоматическое резервное копирование",
+      "message": "Включить автоматическое резервное копирование"
+   },
+   "settings_export": {
+      "description": "Экспорт истории",
+      "message": "Экспортируйте историю в виде резервной копии или перенесите на другой компьютер. \u003Cli>Экспортируйте полную копию своей истории браузера, нажав \u003Cbutton id='setting-export' class='button is-primary is-small'>Экспортировать историю\u003C/button>\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "Полное (Каждый раз полное резервное копирование. Размер файла будет больше.)",
+      "message": "Полное (Каждый раз полное резервное копирование. Размер файла будет больше.)"
+   },
+   "settings_import": {
+      "description": "Импорт истории",
+      "message": "Импортируйте историю из автоматической резервной копии или экспортированного файла \u003Cb>History+\u003C/b>. Вы также можете импортировать файлы резервного копирования/переноса из расширения \"\u003Cb>History Trends Unlimited\u003C/b>\".\u003Cbr/>\u003Ci>Примечание: импорт истории не добавит дублирующих посещений\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "Инкрементное (Инкрементное резервное копирование с последнего резервного копирования. Рекомендуемый режим.)",
+      "message": "Инкрементное (Инкрементное резервное копирование с последнего резервного копирования. Рекомендуемый режим.)"
+   },
+   "settings_items_per_page": {
+      "description": "элементов на каждой странице списка",
+      "message": "элементов на каждой странице списка"
+   },
+   "settings_last_backup_at": {
+      "description": "Последнее резервное копирование",
+      "message": "Последнее резервное копирование"
+   },
+   "settings_show": {
+      "description": "Показать",
+      "message": "Показать"
+   },
+   "settings_start_page": {
+      "description": "Стартовая страница",
+      "message": "Стартовая страница"
+   },
+   "top_search_advanced_search": {
+      "description": "Текст ссылки для расширенного поиска",
+      "message": "Расширенный поиск"
+   },
+   "top_search_export": {
+      "description": "Текст ссылки для экспорта",
+      "message": "Экспорт"
+   },
+   "top_search_record_count": {
+      "description": "Количество найденных записей",
+      "message": "найдено посещений"
+   },
+   "top_search_term_placeholder": {
+      "description": "Плейсхолдер поля поиска",
+      "message": "Введите для поиска"
+   }
+}

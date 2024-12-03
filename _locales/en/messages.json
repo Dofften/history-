@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "Date Range",
+      "message": "Date Range"
+   },
+   "UI_advanced_search_domain": {
+      "description": "Domain",
+      "message": "Domain"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "Keywords",
+      "message": "Keywords"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "Description of auto generation",
+      "message": "Auto generate"
+   },
+   "UI_auto_generate_description": {
+      "description": "Description of auto generation",
+      "message": "Click the 'Auto generate' button below, the most visited pages in each category will be marked as pinned."
+   },
+   "UI_button_clear": {
+      "description": "Clear",
+      "message": "Clear"
+   },
+   "UI_button_close": {
+      "description": "Close",
+      "message": "Close"
+   },
+   "UI_button_search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "UI_pagenation_next": {
+      "description": "Next page",
+      "message": "Next"
+   },
+   "UI_pagenation_prev": {
+      "description": "Previous page",
+      "message": "Prev"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "How many record found",
+      "message": "Total $total_records$ visits",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "Tooltips for only one window openned",
+      "message": "History+ only opens in one tab. If you don't see the History+ tab, it might be in another screen or window."
+   },
+   "UI_popup_rating": {
+      "description": "Rating us",
+      "message": "Rate us and make it better!"
+   },
+   "UI_section_name_top_visits": {
+      "description": "Section header of top visits",
+      "message": "Top Visits"
+   },
+   "UI_submit_feedback": {
+      "description": "Link text of submit feedback",
+      "message": "Submit Feedback"
+   },
+   "UI_table_header_domain": {
+      "description": "Column domain",
+      "message": "Domain"
+   },
+   "UI_table_header_time": {
+      "description": "Column time",
+      "message": "Time"
+   },
+   "UI_table_header_title": {
+      "description": "Column title",
+      "message": "Title"
+   },
+   "UI_title_backup": {
+      "description": "Backup",
+      "message": "Backup"
+   },
+   "UI_title_basic_settings": {
+      "description": "Basic Settings",
+      "message": "Basic Settings"
+   },
+   "UI_title_export": {
+      "description": "Export to HTML",
+      "message": "Export to HTML"
+   },
+   "UI_title_import": {
+      "description": "Import",
+      "message": "Import"
+   },
+   "UI_title_settings": {
+      "description": "Settings",
+      "message": "Settings"
+   },
+   "global_extensionDescription": {
+      "description": "Features includes: 1. Save browsing history beyond 90 days before browser deletes it. 2. Export history for backup or transfer to another computer; 3. Import history. Compatible with History Trends Unlimited's export. 4. Advanced search; 5: Quick filtering by click website logos",
+      "message": "A better browsing history. Save more history beyond 90 days, advanced search, autobackup and import/export."
+   },
+   "global_extensionName": {
+      "description": "History+ is a better history management tools for your browser",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "Menu item of All",
+      "message": "All"
+   },
+   "left_nav_menu_category_1": {
+      "description": "Menu item of Pinned",
+      "message": "Pinned"
+   },
+   "left_nav_menu_category_10": {
+      "description": "Menu item of Shop",
+      "message": "Shop"
+   },
+   "left_nav_menu_category_11": {
+      "description": "Menu item of Finance",
+      "message": "Finance"
+   },
+   "left_nav_menu_category_12": {
+      "description": "Menu item of Travel",
+      "message": "Travel"
+   },
+   "left_nav_menu_category_13": {
+      "description": "Menu item of Hobby",
+      "message": "Hobby"
+   },
+   "left_nav_menu_category_2": {
+      "description": "Menu item of Documents",
+      "message": "Documents"
+   },
+   "left_nav_menu_category_3": {
+      "description": "Menu item of Email",
+      "message": "Email"
+   },
+   "left_nav_menu_category_4": {
+      "description": "Menu item of Morning Read",
+      "message": "Morning Read"
+   },
+   "left_nav_menu_category_5": {
+      "description": "Menu item of Tools",
+      "message": "Tools"
+   },
+   "left_nav_menu_category_6": {
+      "description": "Menu item of News",
+      "message": "News"
+   },
+   "left_nav_menu_category_7": {
+      "description": "Menu item of Social",
+      "message": "Social"
+   },
+   "left_nav_menu_category_8": {
+      "description": "Menu item of Entertainment",
+      "message": "Entertainment"
+   },
+   "left_nav_menu_category_9": {
+      "description": "Menu item of Learning",
+      "message": "Learning"
+   },
+   "left_stats_days": {
+      "description": "Get the earliest day for using History+ to save history",
+      "message": "since $earliest_day_content$ ($daysDifference$ days)",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "Tooltips for the 90 days limitation of standard history",
+      "message": "Chrome only keeps 90 days of browsing history. History+ accumulates it if you keep using it."
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "Clear"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "to"
+   },
+   "period_range_all": {
+      "description": "All time",
+      "message": "All"
+   },
+   "period_range_past_180_days": {
+      "description": "Past 180 days",
+      "message": "Past 180 Days"
+   },
+   "period_range_past_30_days": {
+      "description": "Past 30 days",
+      "message": "Past 30 Days"
+   },
+   "period_range_past_7_days": {
+      "description": "Past 7 days",
+      "message": "Past 7 Days"
+   },
+   "period_range_past_90_days": {
+      "description": "Past 90 days",
+      "message": "Past 90 Days"
+   },
+   "period_range_past_year": {
+      "description": "Past year",
+      "message": "Past Year"
+   },
+   "period_range_today": {
+      "description": "Today",
+      "message": "Today"
+   },
+   "period_range_yesterday": {
+      "description": "Yesterday",
+      "message": "Yesterday"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "From"
+   },
+   "settings_backup_interval": {
+      "description": "Backup interval",
+      "message": "Backup every $interval$ days",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "Choose a file",
+      "message": "Choose a file"
+   },
+   "settings_compress_file": {
+      "description": "Compress",
+      "message": "Compress file: $compress$ (Export to a .zip file)",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "Enable Auto Backup",
+      "message": "Enable Auto Backup"
+   },
+   "settings_export": {
+      "description": "Export history",
+      "message": "Export history as backup or transfer to another computer. \u003Cli>Export a full copy of your browser history by clicking \u003Cbutton id='setting-export' class='button is-primary is-small'>Export History\u003C/button>\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "Full (Backup in full every time. File size will be larger.)",
+      "message": "Full (Backup in full every time. File size will be larger.)"
+   },
+   "settings_import": {
+      "description": "Import history",
+      "message": "Import history from \u003Cb>History+\u003C/b> auto-backup or exported file. You can import the backup/transfer files from \"\u003Cb>History Trends Unlimited\u003C/b>\" extension as well.\u003Cbr/>\u003Ci>Note: importing history won't add duplicate visits\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "Incremental (Backup incrementally since last backup. Recommended mode.)",
+      "message": "Incremental (Backup incrementally since last backup. Recommended mode.)"
+   },
+   "settings_items_per_page": {
+      "description": "items on every listing page",
+      "message": "items on every listing page"
+   },
+   "settings_last_backup_at": {
+      "description": "Last backup at",
+      "message": "Last backup at"
+   },
+   "settings_show": {
+      "description": "show",
+      "message": "Show"
+   },
+   "settings_start_page": {
+      "description": "Start Page",
+      "message": "Start Page"
+   },
+   "top_search_advanced_search": {
+      "description": "Link text of advanced search",
+      "message": "Advanced Search"
+   },
+   "top_search_export": {
+      "description": "Link text of Export",
+      "message": "Export"
+   },
+   "top_search_record_count": {
+      "description": "How many record found",
+      "message": "visits found"
+   },
+   "top_search_term_placeholder": {
+      "description": "Place holder of search box",
+      "message": "Type to search"
+   }
+}

@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "日付範囲",
+      "message": "日付範囲"
+   },
+   "UI_advanced_search_domain": {
+      "description": "ドメイン",
+      "message": "ドメイン"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "キーワード",
+      "message": "キーワード"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "自動生成ボタンの説明",
+      "message": "自動生成"
+   },
+   "UI_auto_generate_description": {
+      "description": "自動生成の説明",
+      "message": "以下の「自動生成」ボタンをクリックすると、各カテゴリで最も訪問されたページがピン留めされます。"
+   },
+   "UI_button_clear": {
+      "description": "クリア",
+      "message": "クリア"
+   },
+   "UI_button_close": {
+      "description": "閉じる",
+      "message": "閉じる"
+   },
+   "UI_button_search": {
+      "description": "検索",
+      "message": "検索"
+   },
+   "UI_pagenation_next": {
+      "description": "次のページ",
+      "message": "次へ"
+   },
+   "UI_pagenation_prev": {
+      "description": "前のページ",
+      "message": "前へ"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "見つかった記録の数",
+      "message": "合計 $total_records$ 回の訪問",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "一つのウィンドウのみ開くことのツールチップ",
+      "message": "History+は一つのタブでのみ開かれます。History+のタブが見えない場合は、他の画面またはウィンドウにある可能性があります。"
+   },
+   "UI_popup_rating": {
+      "description": "評価すること",
+      "message": "評価して改善しましょう！"
+   },
+   "UI_section_name_top_visits": {
+      "description": "トップ訪問のセクションヘッダー",
+      "message": "トップ訪問"
+   },
+   "UI_submit_feedback": {
+      "description": "フィードバックを送信するリンクテキスト",
+      "message": "フィードバックを送信"
+   },
+   "UI_table_header_domain": {
+      "description": "ドメイン列",
+      "message": "ドメイン"
+   },
+   "UI_table_header_time": {
+      "description": "時間列",
+      "message": "時間"
+   },
+   "UI_table_header_title": {
+      "description": "タイトル列",
+      "message": "タイトル"
+   },
+   "UI_title_backup": {
+      "description": "バックアップ",
+      "message": "バックアップ"
+   },
+   "UI_title_basic_settings": {
+      "description": "基本設定",
+      "message": "基本設定"
+   },
+   "UI_title_export": {
+      "description": "エクスポート",
+      "message": "エクスポート"
+   },
+   "UI_title_import": {
+      "description": "インポート",
+      "message": "インポート"
+   },
+   "UI_title_settings": {
+      "description": "設定",
+      "message": "設定"
+   },
+   "global_extensionDescription": {
+      "description": "機能には、1. ブラウザが削除する前に90日以上のブラウジング履歴を保存する。2. バックアップまたは他のコンピュータへの転送のための履歴エクスポート；3. 履歴のインポート。History Trends Unlimitedのエクスポートと互換性があります。4. 高度な検索；5. ウェブサイトのロゴをクリックして素早くフィルタリング",
+      "message": "より良いブラウジング履歴管理。90日以上の履歴を保存し、高度な検索、自動バックアップ、インポート/エクスポートが可能です。"
+   },
+   "global_extensionName": {
+      "description": "History+は、ブラウザの履歴管理を向上させるツールです",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "全てのメニュー項目",
+      "message": "全て"
+   },
+   "left_nav_menu_category_1": {
+      "description": "ピン留めのメニュー項目",
+      "message": "ピン留め"
+   },
+   "left_nav_menu_category_10": {
+      "description": "ショップのメニュー項目",
+      "message": "ショップ"
+   },
+   "left_nav_menu_category_11": {
+      "description": "ファイナンスのメニュー項目",
+      "message": "ファイナンス"
+   },
+   "left_nav_menu_category_12": {
+      "description": "トラベルのメニュー項目",
+      "message": "トラベル"
+   },
+   "left_nav_menu_category_13": {
+      "description": "趣味のメニュー項目",
+      "message": "趣味"
+   },
+   "left_nav_menu_category_2": {
+      "description": "ドキュメントのメニュー項目",
+      "message": "ドキュメント"
+   },
+   "left_nav_menu_category_3": {
+      "description": "メールのメニュー項目",
+      "message": "メール"
+   },
+   "left_nav_menu_category_4": {
+      "description": "朝の読書のメニュー項目",
+      "message": "朝の読書"
+   },
+   "left_nav_menu_category_5": {
+      "description": "ツールのメニュー項目",
+      "message": "ツール"
+   },
+   "left_nav_menu_category_6": {
+      "description": "ニュースのメニュー項目",
+      "message": "ニュース"
+   },
+   "left_nav_menu_category_7": {
+      "description": "ソーシャルのメニュー項目",
+      "message": "ソーシャル"
+   },
+   "left_nav_menu_category_8": {
+      "description": "エンターテイメントのメニュー項目",
+      "message": "エンターテイメント"
+   },
+   "left_nav_menu_category_9": {
+      "description": "学習のメニュー項目",
+      "message": "学習"
+   },
+   "left_stats_days": {
+      "description": "History+を使って履歴を保存するための最も早い日を取得します",
+      "message": "$earliest_day_content$から（$daysDifference$日間）",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "標準履歴の90日制限に関するツールチップ",
+      "message": "Chromeは90日間のブラウジング履歴のみを保持します。History+を使い続けるとそれが蓄積されます。"
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "クリア"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "まで"
+   },
+   "period_range_all": {
+      "description": "すべての期間",
+      "message": "すべて"
+   },
+   "period_range_past_180_days": {
+      "description": "過去180日間",
+      "message": "過去180日間"
+   },
+   "period_range_past_30_days": {
+      "description": "過去30日間",
+      "message": "過去30日間"
+   },
+   "period_range_past_7_days": {
+      "description": "過去7日間",
+      "message": "過去7日間"
+   },
+   "period_range_past_90_days": {
+      "description": "過去90日間",
+      "message": "過去90日間"
+   },
+   "period_range_past_year": {
+      "description": "過去1年間",
+      "message": "過去1年間"
+   },
+   "period_range_today": {
+      "description": "今日",
+      "message": "今日"
+   },
+   "period_range_yesterday": {
+      "description": "昨日",
+      "message": "昨日"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "開始"
+   },
+   "settings_backup_interval": {
+      "description": "バックアップ間隔",
+      "message": "毎$interval$日ごとにバックアップ",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "履歴のエクスポート",
+      "message": "ファイルを選択"
+   },
+   "settings_compress_file": {
+      "description": "圧縮",
+      "message": "ファイルを圧縮: $compress$ （.zipファイルにエクスポート）",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "自動バックアップを有効にする",
+      "message": "自動バックアップを有効にする"
+   },
+   "settings_export": {
+      "description": "履歴のエクスポート",
+      "message": "バックアップまたは他のコンピューターへの転送として履歴をエクスポートします。 \u003Cli>\u003Cbutton id='setting-export' class='button is-primary is-small'>履歴をエクスポート\u003C/button> をクリックして、ブラウザー履歴の完全なコピーをエクスポートします。\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "フル（毎回フルバックアップ。ファイルサイズは大きくなります。）",
+      "message": "フル（毎回フルバックアップ。ファイルサイズは大きくなります。）"
+   },
+   "settings_import": {
+      "description": "履歴のインポート",
+      "message": "\u003Cb>History+\u003C/b>の自動バックアップまたはエクスポートファイルから履歴をインポートします。 \"\u003Cb>History Trends Unlimited\u003C/b>\" 拡張機能のバックアップ/転送ファイルもインポートできます。\u003Cbr/>\u003Ci>注: 履歴をインポートしても重複する訪問は追加されません\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "増分（最後のバックアップから段階的にバックアップします。推奨モードです。）",
+      "message": "増分（最後のバックアップから段階的にバックアップします。推奨モードです。）"
+   },
+   "settings_items_per_page": {
+      "description": "各リストページのアイテム",
+      "message": "各リストページのアイテム"
+   },
+   "settings_last_backup_at": {
+      "description": "最後のバックアップ日時",
+      "message": "最後のバックアップ日時"
+   },
+   "settings_show": {
+      "description": "表示",
+      "message": "表示"
+   },
+   "settings_start_page": {
+      "description": "スタートページ",
+      "message": "スタートページ"
+   },
+   "top_search_advanced_search": {
+      "description": "高度な検索のリンクテキスト",
+      "message": "高度な検索"
+   },
+   "top_search_export": {
+      "description": "エクスポートのリンクテキスト",
+      "message": "エクスポート"
+   },
+   "top_search_record_count": {
+      "description": "見つかった記録の数",
+      "message": "訪問が見つかりました"
+   },
+   "top_search_term_placeholder": {
+      "description": "検索ボックスのプレースホルダー",
+      "message": "検索するために入力"
+   }
+}

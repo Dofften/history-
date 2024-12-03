@@ -1,0 +1,50 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/icon/history_plus_128.png",
+         "16": "assets/icon/history_plus_16.png",
+         "32": "assets/icon/history_plus_32.png",
+         "48": "assets/icon/history_plus_48.png",
+         "64": "assets/icon/history_plus_64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_global_extensionName__"
+   },
+   "author": "Tom Zenho",
+   "background": {
+      "service_worker": "assets/js/background.js"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+   },
+   "cross_origin_embedder_policy": {
+      "value": "require-corp"
+   },
+   "cross_origin_opener_policy": {
+      "value": "same-origin"
+   },
+   "default_locale": "en",
+   "description": "__MSG_global_extensionDescription__",
+   "icons": {
+      "128": "assets/icon/history_plus_128.png",
+      "16": "assets/icon/history_plus_16.png",
+      "32": "assets/icon/history_plus_32.png",
+      "48": "assets/icon/history_plus_48.png",
+      "64": "assets/icon/history_plus_64.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArGcSAaZsKftnElmAlQlsn2Vrn/UrKTO9ib/q4iwqsVioBv+HPGsVMy8MuOu342w5xFVbvHb8UmMyzDH9O2qNKuf7mQAL8WET4hcYk01w/FNUdwZZNrT0pmXMMvwViaMZgIt5KRFVtIKH88QKGC/FBmfqqjA4dUbeNq+8jqQKk2+wOqxRa3DHPFvKMNUJkloRhpYT5CRsssGIhpV4oI5BS2WN95W+TLZNVDFGK6TYjsB77MEvYBZ5GdzVgxBpwYILmUmslA+8pKq2aamEdahhMHgXkWsehhfdrEtHhYYo/SypGtRojKQyQWkqEAqOodHBQ8gWYGVM9wg6HjQ0IJs//wIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_global_extensionName__",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "favicon", "storage", "history", "unlimitedStorage" ],
+   "short_name": "HP",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.8",
+   "web_accessible_resources": [ {
+      "extension_ids": [ "*" ],
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "_favicon/*" ]
+   } ]
+}

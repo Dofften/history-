@@ -1,0 +1,302 @@
+{
+   "UI_advanced_search_date_range": {
+      "description": "Rango de fechas",
+      "message": "Rango de fechas"
+   },
+   "UI_advanced_search_domain": {
+      "description": "Dominio",
+      "message": "Dominio"
+   },
+   "UI_advanced_search_keywords": {
+      "description": "Palabras clave",
+      "message": "Palabras clave"
+   },
+   "UI_auto_generate_button_text": {
+      "description": "Texto del botón de generación automática",
+      "message": "Generar automáticamente"
+   },
+   "UI_auto_generate_description": {
+      "description": "Descripción de generación automática",
+      "message": "Haz clic en el botón 'Generar automáticamente' abajo, las páginas más visitadas de cada categoría serán marcadas como fijadas."
+   },
+   "UI_button_clear": {
+      "description": "Limpiar",
+      "message": "Limpiar"
+   },
+   "UI_button_close": {
+      "description": "Cerrar",
+      "message": "Cerrar"
+   },
+   "UI_button_search": {
+      "description": "Buscar",
+      "message": "Buscar"
+   },
+   "UI_pagenation_next": {
+      "description": "Página siguiente",
+      "message": "Siguiente"
+   },
+   "UI_pagenation_prev": {
+      "description": "Página anterior",
+      "message": "Anterior"
+   },
+   "UI_pagenation_total_counts": {
+      "description": "Cuántos registros encontrados",
+      "message": "Total de $total_records$ visitas",
+      "placeholders": {
+         "total_records": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "UI_popup_description": {
+      "description": "Consejos para cuando solo se abre una ventana",
+      "message": "History+ solo se abre en una pestaña. Si no ves la pestaña de History+, podría estar en otra pantalla o ventana."
+   },
+   "UI_popup_rating": {
+      "description": "Califícanos",
+      "message": "¡Califícanos y hazlo mejor!"
+   },
+   "UI_section_name_top_visits": {
+      "description": "Encabezado de sección de visitas principales",
+      "message": "Visitas Principales"
+   },
+   "UI_submit_feedback": {
+      "description": "Texto de enlace para enviar comentarios",
+      "message": "Enviar Comentarios"
+   },
+   "UI_table_header_domain": {
+      "description": "Columna de dominio",
+      "message": "Dominio"
+   },
+   "UI_table_header_time": {
+      "description": "Columna de tiempo",
+      "message": "Hora"
+   },
+   "UI_table_header_title": {
+      "description": "Columna de título",
+      "message": "Título"
+   },
+   "UI_title_backup": {
+      "description": "Copia de seguridad",
+      "message": "Copia de seguridad"
+   },
+   "UI_title_basic_settings": {
+      "description": "Configuración básica",
+      "message": "Configuración básica"
+   },
+   "UI_title_export": {
+      "description": "Exportar",
+      "message": "Exportar"
+   },
+   "UI_title_import": {
+      "description": "Importar",
+      "message": "Importar"
+   },
+   "UI_title_settings": {
+      "description": "Configuración",
+      "message": "Configuración"
+   },
+   "global_extensionDescription": {
+      "description": "Las características incluyen: 1. Guardar el historial de navegación más allá de 90 días antes de que el navegador lo elimine. 2. Exportar el historial para hacer una copia de seguridad o transferir a otro ordenador; 3. Importar historial. Compatible con la exportación de History Trends Unlimited. 4. Búsqueda avanzada; 5: Filtrado rápido haciendo clic en logotipos de sitios web",
+      "message": "Mejores formas de gestionar tu historial de navegación. Guarda más historial más allá de 90 días, búsqueda avanzada, copia de seguridad automática e importación/exportación."
+   },
+   "global_extensionName": {
+      "description": "History+ es una herramienta de gestión de historial mejor para tu navegador",
+      "message": "History Plus"
+   },
+   "left_nav_menu_category_0": {
+      "description": "Elemento del menú Todo",
+      "message": "Todo"
+   },
+   "left_nav_menu_category_1": {
+      "description": "Elemento del menú Fijados",
+      "message": "Fijados"
+   },
+   "left_nav_menu_category_10": {
+      "description": "Elemento del menú Tienda",
+      "message": "Tienda"
+   },
+   "left_nav_menu_category_11": {
+      "description": "Elemento del menú Finanzas",
+      "message": "Finanzas"
+   },
+   "left_nav_menu_category_12": {
+      "description": "Elemento del menú Viajes",
+      "message": "Viajes"
+   },
+   "left_nav_menu_category_13": {
+      "description": "Elemento del menú Aficiones",
+      "message": "Aficiones"
+   },
+   "left_nav_menu_category_2": {
+      "description": "Elemento del menú Documentos",
+      "message": "Documentos"
+   },
+   "left_nav_menu_category_3": {
+      "description": "Elemento del menú Correo",
+      "message": "Correo"
+   },
+   "left_nav_menu_category_4": {
+      "description": "Elemento del menú Lectura Matutina",
+      "message": "Lectura Matutina"
+   },
+   "left_nav_menu_category_5": {
+      "description": "Elemento del menú Herramientas",
+      "message": "Herramientas"
+   },
+   "left_nav_menu_category_6": {
+      "description": "Elemento del menú Noticias",
+      "message": "Noticias"
+   },
+   "left_nav_menu_category_7": {
+      "description": "Elemento del menú Social",
+      "message": "Social"
+   },
+   "left_nav_menu_category_8": {
+      "description": "Elemento del menú Entretenimiento",
+      "message": "Entretenimiento"
+   },
+   "left_nav_menu_category_9": {
+      "description": "Elemento del menú Aprendizaje",
+      "message": "Aprendizaje"
+   },
+   "left_stats_days": {
+      "description": "Obtener el día más temprano para usar History+ para guardar el historial",
+      "message": "desde $earliest_day_content$ ($daysDifference$ días)",
+      "placeholders": {
+         "daysDifference": {
+            "content": "$2",
+            "example": "90"
+         },
+         "earliest_day_content": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "left_stats_days_tooltip": {
+      "description": "Consejos para la limitación de 90 días del historial estándar",
+      "message": "Chrome solo mantiene 90 días de historial de navegación. History+ lo acumula si sigues usándolo."
+   },
+   "period_button_clear": {
+      "description": "Clear",
+      "message": "Borrar"
+   },
+   "period_end_to": {
+      "description": "ends to",
+      "message": "hasta"
+   },
+   "period_range_all": {
+      "description": "Todo el tiempo",
+      "message": "Todo"
+   },
+   "period_range_past_180_days": {
+      "description": "Últimos 180 días",
+      "message": "Últimos 180 días"
+   },
+   "period_range_past_30_days": {
+      "description": "Últimos 30 días",
+      "message": "Últimos 30 días"
+   },
+   "period_range_past_7_days": {
+      "description": "Últimos 7 días",
+      "message": "Últimos 7 días"
+   },
+   "period_range_past_90_days": {
+      "description": "Últimos 90 días",
+      "message": "Últimos 90 días"
+   },
+   "period_range_past_year": {
+      "description": "Último año",
+      "message": "Último año"
+   },
+   "period_range_today": {
+      "description": "Hoy",
+      "message": "Hoy"
+   },
+   "period_range_yesterday": {
+      "description": "Ayer",
+      "message": "Ayer"
+   },
+   "period_start_from": {
+      "description": "Starts from",
+      "message": "Desde"
+   },
+   "settings_backup_interval": {
+      "description": "Intervalo de copia de seguridad",
+      "message": "Copia de seguridad cada $interval$ días",
+      "placeholders": {
+         "interval": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_choose_a_file": {
+      "description": "Exportar historial",
+      "message": "Elija un archivo"
+   },
+   "settings_compress_file": {
+      "description": "Comprimir",
+      "message": "Comprimir archivo: $compress$ (Exportar a un archivo .zip)",
+      "placeholders": {
+         "compress": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "settings_enable_autobackup": {
+      "description": "Habilitar copia de seguridad automática",
+      "message": "Habilitar copia de seguridad automática"
+   },
+   "settings_export": {
+      "description": "Exportar historial",
+      "message": "Exportar historial como copia de seguridad o transferir a otra computadora. \u003Cli>Exporte una copia completa de su historial de navegación haciendo clic en \u003Cbutton id='setting-export' class='button is-primary is-small'>Exportar historial\u003C/button>\u003C/li>"
+   },
+   "settings_full_backup_description": {
+      "description": "Completo (Copia de seguridad completa cada vez. El tamaño del archivo será mayor.)",
+      "message": "Completo (Copia de seguridad completa cada vez. El tamaño del archivo será mayor.)"
+   },
+   "settings_import": {
+      "description": "Importar historial",
+      "message": "Importar historial desde la copia de seguridad automática o el archivo exportado de \u003Cb>History+\u003C/b>. También puede importar los archivos de copia de seguridad/transferencia de la extensión \"\u003Cb>History Trends Unlimited\u003C/b>\".\u003Cbr/>\u003Ci>Nota: Importar historial no añadirá visitas duplicadas\u003C/i>\u003Cbr/>"
+   },
+   "settings_incremental_backup_description": {
+      "description": "Incremental (Realizar copia de seguridad incremental desde la última copia de seguridad. Modo recomendado.)",
+      "message": "Incremental (Realizar copia de seguridad incremental desde la última copia de seguridad. Modo recomendado.)"
+   },
+   "settings_items_per_page": {
+      "description": "elementos en cada página de listado",
+      "message": "elementos en cada página de listado"
+   },
+   "settings_last_backup_at": {
+      "description": "Última copia de seguridad en",
+      "message": "Última copia de seguridad en"
+   },
+   "settings_show": {
+      "description": "Mostrar",
+      "message": "Mostrar"
+   },
+   "settings_start_page": {
+      "description": "Página de inicio",
+      "message": "Página de inicio"
+   },
+   "top_search_advanced_search": {
+      "description": "Texto de enlace para búsqueda avanzada",
+      "message": "Búsqueda Avanzada"
+   },
+   "top_search_export": {
+      "description": "Texto de enlace para Exportar",
+      "message": "Exportar"
+   },
+   "top_search_record_count": {
+      "description": "Cuántos registros encontrados",
+      "message": "visitas encontradas"
+   },
+   "top_search_term_placeholder": {
+      "description": "Placeholder del cuadro de búsqueda",
+      "message": "Escribe para buscar"
+   }
+}
